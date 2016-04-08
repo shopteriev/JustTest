@@ -3,5 +3,6 @@ added this from web gitHub
 
 
 some code that fix bug #1. 
+added text in order to commit with proper message
 
 
